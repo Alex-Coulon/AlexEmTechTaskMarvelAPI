@@ -1,2 +1,2 @@
-requests
-PrettyTable 
+requests==2.26.0
+PrettyTable==2.2.2.dev1
